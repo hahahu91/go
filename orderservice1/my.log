@@ -1,0 +1,79 @@
+{"level":"info","msg":"Starting the server","time":"2021-02-24T19:46:12+02:00","url":":8000"}
+{"level":"info","msg":"Starting the server","time":"2021-02-24T19:54:55+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50907","time":"2021-02-24T19:55:03+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50907","time":"2021-02-24T19:55:05+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"Starting the server","time":"2021-02-24T20:00:31+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50920","time":"2021-02-24T20:00:41+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50920","time":"2021-02-24T20:00:42+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"Starting the server","time":"2021-02-24T20:13:45+02:00","url":":8000"}
+{"level":"info","msg":"got SIGINT...","time":"2021-02-24T20:14:18+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-02-24T20:14:18+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-02-24T20:16:25+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50948","time":"2021-02-24T20:16:29+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"got SIGINT...","time":"2021-02-24T20:24:10+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-02-24T20:24:10+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-02-24T20:24:13+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:51148","time":"2021-02-24T20:24:24+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"time passed","time":"2021-02-24T20:24:24+02:00","timePassed":-10646962400}
+{"level":"info","msg":"got SIGINT...","time":"2021-02-24T20:26:12+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-02-24T20:26:12+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-02-24T20:26:15+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:51162","time":"2021-02-24T20:26:20+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"time passed","time":"2021-02-24T20:26:20+02:00","timePassed":5230194200}
+{"level":"info","msg":"got SIGINT...","time":"2021-02-24T20:32:34+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-02-24T20:32:34+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-02-24T20:32:53+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:51186","time":"2021-02-24T20:33:02+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"time passed","time":"2021-02-24T20:33:02+02:00","timePassed":9493353800}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:51186","time":"2021-02-24T20:33:04+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"time passed","time":"2021-02-24T20:33:04+02:00","timePassed":10647495200}
+{"level":"info","msg":"got SIGINT...","time":"2021-02-24T20:42:11+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-02-24T20:42:11+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-02-24T20:42:14+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:51201","time":"2021-02-24T20:42:18+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"time passed","time":"2021-02-24T20:42:18+02:00","timePassed":4486206900}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:51201","time":"2021-02-24T20:42:20+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"time passed","time":"2021-02-24T20:42:20+02:00","timePassed":6228616700}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:51201","time":"2021-02-24T20:43:34+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"time passed","time":"2021-02-24T20:43:34+02:00","timePassed":80493025000}
+{"level":"info","msg":"got SIGTERM....","time":"2021-02-24T20:51:35+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-02-24T20:51:35+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-03-03T18:27:53+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50009","time":"2021-03-03T18:28:18+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0"}
+{"level":"info","msg":"time passed","time":"2021-03-03T18:28:18+02:00","timePassed":24772255000}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50010","time":"2021-03-03T18:28:18+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/favicon.ico","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0"}
+{"level":"info","msg":"time passed","time":"2021-03-03T18:28:18+02:00","timePassed":24842562800}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50028","time":"2021-03-03T18:34:27+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/order","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0"}
+{"level":"info","msg":"time passed","time":"2021-03-03T18:34:27+02:00","timePassed":393943175400}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50028","time":"2021-03-03T18:34:31+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/order/","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0"}
+{"level":"info","msg":"time passed","time":"2021-03-03T18:34:31+02:00","timePassed":397301199100}
+{"level":"info","msg":"got SIGINT...","time":"2021-03-03T18:34:38+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-03-03T18:34:38+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-03-03T18:35:01+02:00","url":":8000"}
+{"level":"info","msg":"got SIGINT...","time":"2021-03-03T18:36:33+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-03-03T18:36:54+02:00","url":":8000"}
+{"level":"info","msg":"got SIGINT...","time":"2021-03-03T19:17:24+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-03-03T19:17:45+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50233","time":"2021-03-03T19:17:53+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/order","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0"}
+{"level":"info","msg":"time passed","time":"2021-03-03T19:17:53+02:00","timePassed":7697377100}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50248","time":"2021-03-03T19:30:24+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0"}
+{"level":"info","msg":"time passed","time":"2021-03-03T19:30:24+02:00","timePassed":758458483500}
+{"level":"info","msg":"got SIGINT...","time":"2021-03-03T19:35:37+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-03-03T19:35:37+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-03-03T19:39:56+02:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:50288","time":"2021-03-03T19:39:58+02:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/api/v1/cat","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":"","RawFragment":""},"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0"}
+{"level":"info","msg":"time passed","time":"2021-03-03T19:39:58+02:00","timePassed":1247492200}
+{"level":"info","msg":"got SIGINT...","time":"2021-03-03T19:42:49+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-03-03T19:42:49+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-03-03T19:44:48+02:00","url":":8000"}
+{"level":"info","msg":"got SIGTERM....","time":"2021-03-03T20:21:57+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-03-10T19:41:36+02:00","url":""}
+{"level":"info","msg":"got SIGINT...","time":"2021-03-10T19:45:50+02:00"}
+{"level":"fatal","msg":"http: Server closed","time":"2021-03-10T19:45:50+02:00"}
+{"level":"info","msg":"Starting the server","time":"2021-03-10T19:46:16+02:00","url":":8000"}
+{"level":"info","msg":"Starting the server","time":"2021-03-10T21:49:28+03:00","url":":8000"}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:49424","time":"2021-03-10T21:49:56+03:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/hello-world","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":""},"userAgent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"time passed","time":"2021-03-10T21:49:56+03:00","timePassed":27932011879}
+{"level":"info","method":"GET","msg":"got a new request","remoteAddr":"127.0.0.1:49424","time":"2021-03-10T21:49:56+03:00","url":{"Scheme":"","Opaque":"","User":null,"Host":"","Path":"/favicon.ico","RawPath":"","ForceQuery":false,"RawQuery":"","Fragment":""},"userAgent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:85.0) Gecko/20100101 Firefox/85.0"}
+{"level":"info","msg":"time passed","time":"2021-03-10T21:49:56+03:00","timePassed":28463698922}
+{"level":"info","msg":"got SIGINT...","time":"2021-03-10T21:52:19+03:00"}
