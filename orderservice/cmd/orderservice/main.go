@@ -1,14 +1,14 @@
 package main
+
 import (
 	"context"
 	log "github.com/sirupsen/logrus"
 	"net/http"
-	. "orderservice/transport"
+	"orderservice/pkg/orderservice"
 	"os"
 	"os/signal"
 	"syscall"
 )
-
 
 func main() {
 	log.SetFormatter(&log.JSONFormatter{})
@@ -19,15 +19,15 @@ func main() {
 	}
 	serverUrl := ":8000"
 	log.WithFields(log.Fields{"url": serverUrl}).Info("starting the server")
-	
+
 	killSignalChan := getKillSignalChan()
 	srv := startServer(serverUrl)
-	
+
 	waitForKillSignal(killSignalChan)
 	srv.Shutdown(context.Background())
 }
 func startServer(serverUrl string) *http.Server {
-	router := Router()
+	router := orderservice.Router()
 	srv := &http.Server{Addr: serverUrl, Handler: router}
 	go func() {
 		log.Fatal(srv.ListenAndServe())
